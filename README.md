@@ -9,8 +9,6 @@ The app is a code-along project of a Udemy course by [Andrew Mead](https://gist.
 
 This project is a work-in-progress and contributions are highly welcomed!
 
-[Checkout the demo](https://krebedev-chat-app.herokuapp.com/)
-
 ## Tech Stack
 
     - Node.js v12.16.3
